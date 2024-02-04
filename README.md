@@ -2,6 +2,7 @@
 Ücretsiz olarak ulaşabileceğiniz eğitimlerin düzenlenmiş bir arşivi,kendi el emeğimle hazırladım bi star atarsanız fena olmaz. <br>
 En baştaki siteler hariç genel olarak kaynaklar youtube tabanlıdır bu yüzden sertifika alamazsınız. <br>
 Eğitimi anlatan eğitmenin adına tıklayarak eğitime gidebilirsiniz. <br>
+<b> Liste sürekli güncellenmektedir <b/>
 
 # Ücretsiz Sertifika Veren Siteler
  <a href="https://www.btkakademi.gov.tr/portal"> Btk Akademi<a/>
