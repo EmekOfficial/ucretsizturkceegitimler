@@ -16,6 +16,8 @@ Eğitimi anlatan eğitmenin adına tıklayarak eğitime gidebilirsiniz. <br>
  #### HTML5 
    <a href="https://www.btkakademi.gov.tr/portal/course/html5-ile-web-gelistirme-13200"> Btk Akademi<a/>
    <br>
+   <a href="https://www.youtube.com/playlist?list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S"> Web Odası<a/>
+   <br>
 
   #### CSS3 
   <a href="https://www.btkakademi.gov.tr/portal/course/css-temelleri-20447"> Btk Akademi<a/>
