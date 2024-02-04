@@ -26,6 +26,8 @@ Eğitimi anlatan eğitmenin adına tıklayarak eğitime gidebilirsiniz. <br>
   #### Javascript
    <a href="https://www.btkakademi.gov.tr/portal/course/javascript-temelleri-25317"> Btk Akademi<a/>
    <br>   
+   <a href="https://www.youtube.com/playlist?list=PLkAqDZGjJrkBZNhFC2o4T_5OA6v_WdnvL"> Web Odası<a/>
+   <br> 
   
   # Blender
   <a href="https://www.youtube.com/playlist?list=PLkQYE3VrwEm3JUJcdAmD-0ndEpBoJBA4u"> Ahmet Burul<a/>
