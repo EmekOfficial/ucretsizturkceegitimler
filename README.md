@@ -55,3 +55,7 @@ Eğitimi anlatan eğitmenin adına tıklayarak eğitime gidebilirsiniz. <br>
   #### Unreal
  <a href="https://www.btkakademi.gov.tr/portal/course/unreal-engine-5-2-27382"> Btk Akademi<a/>
    <br>
+
+  #### Godot
+
+   #### Construct
